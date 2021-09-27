@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://localhost:44389/services/UserCatalogService.asmx?WSDL" uri="wsdl/localhost_44389/services/UserCatalogService.asmx.wsdl"/>
+    <system systemId="http://localhost:8733/Design_Time_Addresses/BirthService_WCF/BirthEntryService?wsdl" uri="wsdl/localhost_8733/Design_Time_Addresses/BirthService_WCF/BirthEntryService.wsdl"/>
+    <system systemId="http://localhost:8733/Design_Time_Addresses/BirthService_WCF/BirthEntryService?xsd=xsd0" uri="wsdl/localhost_8733/Design_Time_Addresses/BirthService_WCF/BirthEntryService.xsd_xsd0.xsd"/>
+    <system systemId="http://localhost:8733/Design_Time_Addresses/BirthService_WCF/BirthEntryService?xsd=xsd1" uri="wsdl/localhost_8733/Design_Time_Addresses/BirthService_WCF/BirthEntryService.xsd_xsd1.xsd"/>
+</catalog>

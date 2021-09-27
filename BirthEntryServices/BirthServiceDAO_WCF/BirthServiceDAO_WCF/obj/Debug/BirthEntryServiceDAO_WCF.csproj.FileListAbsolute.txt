@@ -1,0 +1,66 @@
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.dll.config
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.pdb
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\MySql.Data.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Google.Protobuf.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Zstandard.Net.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Renci.SshNet.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Memory.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Buffers.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\MySql.Data.xml
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.CopyComplete
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthServiceDAO_WCF.dll
+C:\Users\jonat\source\repos\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthServiceDAO_WCF.pdb
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.dll.config
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.pdb
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\MySql.Data.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Google.Protobuf.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Zstandard.Net.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BouncyCastle.Crypto.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Ubiety.Dns.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Renci.SshNet.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Memory.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Buffers.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Compression.LZ4.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Hash.xxHash.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Numerics.Vectors.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\MySql.Data.xml
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.AssemblyReference.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.CoreCompileInputs.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.CopyComplete
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthServiceDAO_WCF.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForDatabase-WCF\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthServiceDAO_WCF.pdb
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.dll.config
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BirthServiceDAO_WCF.pdb
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\MySql.Data.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Google.Protobuf.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Zstandard.Net.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\Renci.SshNet.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Memory.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Buffers.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\bin\Debug\MySql.Data.xml
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.AssemblyReference.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.CoreCompileInputs.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthEntryServiceDAO_WCF.csproj.CopyComplete
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthServiceDAO_WCF.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthServiceDAO_WCF\BirthServiceDAO_WCF\obj\Debug\BirthServiceDAO_WCF.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthEntryServiceDAO_WCF", "BirthServiceDAO_WCF\BirthEntryServiceDAO_WCF.csproj", "{0B02C613-5DD2-4F94-8621-490D65A6485B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B02C613-5DD2-4F94-8621-490D65A6485B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B02C613-5DD2-4F94-8621-490D65A6485B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B02C613-5DD2-4F94-8621-490D65A6485B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B02C613-5DD2-4F94-8621-490D65A6485B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CA4C59-BADB-486D-80E6-BCBCF6F4EE0D}
+	EndGlobalSection
+EndGlobal

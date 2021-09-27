@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DAOBirthEntry_WCF.services.UserCatalogService" CodeBehind="UserCatalogService.svc.cs" %>

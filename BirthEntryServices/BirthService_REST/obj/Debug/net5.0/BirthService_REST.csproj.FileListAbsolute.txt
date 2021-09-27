@@ -1,0 +1,1239 @@
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.AssemblyInfo.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorAssemblyInfo.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorAssemblyInfo.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\appsettings.json
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.exe
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.deps.json
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.runtimeconfig.json
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.runtimeconfig.dev.json
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ref\BirthService_REST.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.pdb
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.Views.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.Views.pdb
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\staticwebassets\BirthService_REST.StaticWebAssets.Manifest.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\staticwebassets\BirthService_REST.StaticWebAssets.xml
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\scopedcss\bundle\BirthService_REST.styles.css
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.TagHelpers.input.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.TagHelpers.output.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorCoreGenerate.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorTargetAssemblyInfo.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.Views.pdb
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.CopyComplete
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\ref\BirthService_REST.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.pdb
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.genruntimeconfig.cache
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\BirthEntry\Index.cshtml.g.cs
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Connected Services\UserCatalogServiceReference\ConnectedService.json
+C:\Users\jonat\source\repos\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\BirthEntry\Details.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\appsettings.Development.json
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\appsettings.json
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Connected Services\UserCatalogServiceReference\ConnectedService.json
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.exe
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.deps.json
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.runtimeconfig.json
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.runtimeconfig.dev.json
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ref\BirthService_REST.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.pdb
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\mscorlib.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\netstandard.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.AppContext.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Buffers.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Configuration.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Console.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Data.Common.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Data.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Drawing.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Memory.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Http.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Mail.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Ping.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Requests.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Security.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Numerics.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ObjectModel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Claims.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Principal.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Transactions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.ValueTuple.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Web.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Windows.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\refs\WindowsBase.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.Views.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\BirthService_REST.Views.pdb
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Humanizer.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Http.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Security.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\bin\Debug\net5.0\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.AssemblyReference.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.AssemblyInfoInputs.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.AssemblyInfo.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.CoreCompileInputs.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.MvcApplicationPartsAssemblyInfo.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.MvcApplicationPartsAssemblyInfo.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorAssemblyInfo.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorAssemblyInfo.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\staticwebassets\BirthService_REST.StaticWebAssets.Manifest.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\staticwebassets\BirthService_REST.StaticWebAssets.xml
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\scopedcss\bundle\BirthService_REST.styles.css
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.TagHelpers.input.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.TagHelpers.output.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorCoreGenerate.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\BirthEntry\Details.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\BirthEntry\Index.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorTargetAssemblyInfo.cache
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorTargetAssemblyInfo.cs
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.Views.pdb
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.CopyComplete
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\ref\BirthService_REST.dll
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.pdb
+G:\Cours\Session-4-May-July\Développement orientés services\TP\ServiceForAppLogic-RestApi\BirthService_REST\BirthService_REST\obj\Debug\net5.0\BirthService_REST.genruntimeconfig.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\appsettings.json
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Connected Services\UserCatalogServiceReference\ConnectedService.json
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.exe
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.deps.json
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.runtimeconfig.json
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.runtimeconfig.dev.json
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ref\BirthService_REST.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.pdb
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.Views.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\BirthService_REST.Views.pdb
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\bin\Debug\net5.0\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.AssemblyReference.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.AssemblyInfoInputs.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.AssemblyInfo.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.CoreCompileInputs.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorAssemblyInfo.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorAssemblyInfo.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\staticwebassets\BirthService_REST.StaticWebAssets.Manifest.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\staticwebassets\BirthService_REST.StaticWebAssets.xml
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\scopedcss\bundle\BirthService_REST.styles.css
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.TagHelpers.input.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.TagHelpers.output.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorCoreGenerate.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\BirthEntry\Details.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\BirthEntry\Index.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.RazorTargetAssemblyInfo.cs
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.Views.pdb
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.csproj.CopyComplete
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\ref\BirthService_REST.dll
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.pdb
+C:\Users\jonat\TP-ToShow\BirthEntryServices\BirthService_REST\obj\Debug\net5.0\BirthService_REST.genruntimeconfig.cache
