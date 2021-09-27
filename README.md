@@ -1,6 +1,8 @@
 # TinyFateTeller
 
-## Introduction
+## !Important! Afin que le client Python démarre correctement, la solution BirthEntryServices.sln doit être exécuté.
+
+### Introduction
 
 Ce projet est divisé en 4 parties :
 
